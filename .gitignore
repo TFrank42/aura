@@ -1,0 +1,5 @@
+/target
+**/*.gguf
+**/*.bin
+.DS_Store
+device_dna.json
